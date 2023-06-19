@@ -25,7 +25,7 @@
     "@adonisjs/ignitor": "2.0.8",
     "@adonisjs/lucid": "6.2.0",
     "pg": "8.3.0",
-    "sqlite3": "5.0.0"
+    "sqlite3": "5.1.5"
   },
   "devDependencies": {},
   "autoload": {
